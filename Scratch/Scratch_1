@@ -93,6 +93,7 @@
         <summary> CSIA Research Team</summary>
         <p> If you have any requests or queries, please don't hesitate to contact the following team members: </p>
         
+	<!-- Open up link in a new window - Using "target="_blank"-->
         <ul>
             <li> <a href="http://www.csia-oxford.org/patrick-thewlis" target="_blank"> Patrick Thewlis</a>
             <a href="mailto:patrick.thewlis@qeh.ox.ac.uk">Email Patrick</a>
